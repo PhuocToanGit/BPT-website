@@ -49,7 +49,7 @@ span {
 }
 
 .banner {
-  background: url(../img/Untitled.png);
+  background: url(./img/Untitled.png);
   min-height: 1150px;
   width: 100%;
   background-size: cover;
